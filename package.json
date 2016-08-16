@@ -1,0 +1,19 @@
+{
+  "name": "hello-color-api",
+  "version": "1.0.0",
+  "description": "Hello Color JSON API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "color",
+    "color-palette"
+  ],
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "@jxnblk/bikeshed": "^1.0.0-beta.1",
+    "hello-color": "^1.0.1"
+  }
+}
